@@ -1,0 +1,26 @@
+/* Fondo general */
+body {
+    background-color: #f4f7fb;
+}
+
+/* Título principal */
+.main-title {
+    color: #005DAA; /* Azul BCP */
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* Subtítulo */
+.subtitle {
+    color: #F37021; /* Naranja BCP */
+    font-weight: 500;
+}
+
+/* Caja de métricas */
+.metric-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 6px solid #005DAA;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.05);
+}
