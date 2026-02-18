@@ -136,4 +136,4 @@ if riesgo >= 130:
     respuesta = "Entendemos tu preocupación. Estamos reforzando la infraestructura."
 else:
     st.markdown("<div class='metric-card'>Sistema estable. Operaciones normales.</div>", unsafe_allow_html=True)
-    respuesta = "
+    respuesta = "Hola 👋 Todo funciona con normalidad."
